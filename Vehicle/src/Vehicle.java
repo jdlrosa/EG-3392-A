@@ -1,4 +1,8 @@
-
+/*
+ * Julian De La Rosa
+ * EG 3392
+ * Assignment 2 Vehicle
+ */
 public class Vehicle {
 
 	private int year;

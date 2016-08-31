@@ -1,4 +1,8 @@
-
+/*
+ * Julian De La Rosa
+ * EG 3392
+ * Assignment 2 Test
+ */
 public class TestVehicle {
 
 	public static void main(String[] args) {

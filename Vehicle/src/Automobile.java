@@ -1,4 +1,8 @@
-
+/*
+ * Julian De La Rosa
+ * EG 3392
+ * Assignment 2 Automobile 
+ */
 public class Automobile extends Vehicle {
 
 	private String licensePlate;

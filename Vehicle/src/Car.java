@@ -1,4 +1,8 @@
-
+/*
+ * Julian De La Rosa
+ * EG 3392
+ * Assignment 2 Car
+ */
 public class Car extends Automobile {
 	
 	private int maxPassengers;

@@ -1,4 +1,8 @@
-
+/*
+ * Julian De La Rosa
+ * EG 3392
+ * Assignment 2 Truck
+ */
 public class Truck extends Automobile {
 	
 	double towCapacity;

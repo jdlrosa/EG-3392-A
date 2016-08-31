@@ -1,4 +1,8 @@
-
+/*
+ * Julian De La Rosa
+ * EG 3392
+ * Assignment 2 Tank
+ */
 public class Tank extends Vehicle{
 	
 	private double armorWidth;
