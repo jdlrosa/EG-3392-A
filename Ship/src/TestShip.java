@@ -18,7 +18,7 @@ public class TestShip {
 		Ship Pearl = new CargoShip("Black Pearl", "year", 50000);
 		array[0] = Pearl;
 		
-		System.out.println(Triumph.toString());
+		System.out.println(Triumph.toString()); //Calling the array elements in a for loop would be better.
 		System.out.println(Disney.toString());
 		System.out.println(Pearl.toString());
 		
